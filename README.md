@@ -1,4 +1,8 @@
-# CS255
+# CS255 - System Analysis and Design
+
+Explored the principles, methods, and techniques used in systems development to create system models using appropriate industry tools.
+
+Below is a questionnaire required for coursework:
 
 •  Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?  The client, DriverPass, was aiming to create a system to help facilitate and educate people wishing to pass driving exams easier. This would include the ability for both online practice tests in addition to on site practical exams. 
 
